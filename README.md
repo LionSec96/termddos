@@ -12,7 +12,7 @@ python2 ./pntddos.py
 #Usage
 
 
-INSTALL:
+EX:
 python2 ./pntddos.py ip port packet
 
 EX:
