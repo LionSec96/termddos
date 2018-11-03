@@ -1,4 +1,4 @@
-"""PLANETWORK DDOS
+"""TERM DDOS
 Tool untuk melakukan pengiriman packet kepada mantan terindah :'v """
 import time
 import socket
